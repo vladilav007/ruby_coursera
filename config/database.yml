@@ -27,7 +27,7 @@ development:
   database: MyDatabase
   host: localhost
   pool: 5
-  username: postgres
+  username: vladilav07
   
 test:
   <<: *default
