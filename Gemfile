@@ -30,6 +30,7 @@ gem 'simple_form'
 gem "font-awesome-sass", "~> 6.1.2"
 gem 'faker'
 gem 'devise'
+gem 'friendly_id', '~> 5.4.0'
 
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.4', require: false
